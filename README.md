@@ -11,7 +11,7 @@ Este proyecto es una aplicación desarrollada con **React** y **Vite** que prese
 
 ## Capturas de pantalla
 
-![Guns N' Roses](./PUBLIC/gnr.avif)
+![Guns N' Roses](./PUBLIC/guns.avif)
 
 ---
 
